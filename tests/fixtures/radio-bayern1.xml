@@ -1,0 +1,1224 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns="http://purl.org/rss/1.0/"
+xmlns:dc="http://purl.org/dc/elments/1.1/"
+xmlns:dcterms="http://purl.org/dc/terms/"
+xmlns:mp="http://www.tagesschau.de/rss/1.0/modules/metaplus/1.2.0/"
+xmlns:sy="http://purl.org/rss/1.0/modules/syndication/">
+<channel rdf:about="https://www.br.de/radio/bayern1/bayern-eins108~rss.xml">
+<title>Gehört ins Leben.</title>
+<link>https://www.br.de/radio/bayern1/index.html</link>
+<description>Bayern 1 - Gehört ins Leben. Wir sind das Radioprogramm für Bayern, mit den Hits der 70er, 80er und 90er. Dazu spannende Service-Themen, die das Leben besser machen, Gartentipps, Rezepte und natürlich Nachrichten, ortsgenaues Wetter und Verkehr. Auch im Webradio als Stream.</description>
+<dc:source>BR.de</dc:source>
+<dc:rights>Bayerischer Rundfunk</dc:rights>
+<dc:date>2026-11-20T09:16:27+01:00</dc:date>
+<sy:updatePeriod>hourly</sy:updatePeriod>
+<sy:updateFrequency>2</sy:updateFrequency>
+<sy:updateBase>2026-11-20T09:16:27+01:00</sy:updateBase>
+<items>
+<rdf:Seq>
+<rdf:li resource="https://www.br.de/radio/bayern1/nuechtern-zum-arzt-100.html"/>
+<rdf:li resource="https://www.br.de/radio/bayern1/kontakt/alle-kontakte/index.html"/>
+<rdf:li resource="https://www.br.de/radio/bayern1/was-koch-ich-heute-bayern-eins-100.html"/>
+<rdf:li resource="https://www.br.de/radio/bayern1/kontakt/coin/index.html"/>
+<rdf:li resource="https://www.br.de/radio/bayern1/radio-und-podcast-hoeren-in-ard-sounds-100.html"/>
+<rdf:li resource="https://www.br.de/radio/bayern1/wann-ist-black-friday-2026-100.html"/>
+<rdf:li resource="https://www.br.de/radio/bayern1/raupe-nimmersatt-auf-bairisch-100.html"/>
+<rdf:li resource="https://www.ardsounds.de/episode/urn:ard:episode:99bc93240c41f67b/"/>
+<rdf:li resource="https://www.br.de/radio/bayern1/wem-ist-das-passiert-100.html"/>
+<rdf:li resource="https://www.br.de/radio/bayern1/rechnet-sich-das-altersvorsorgedepot-auch-fuer-aeltere-100.html"/>
+<rdf:li resource="https://www.br.de/radio/bayern1/handwerkerrechnungen-von-der-steuer-absetzen-100.html"/>
+<rdf:li resource="https://www.br.de/radio/bayern1/wie-kann-ich-beim-medikamenten-einkauf-sparen-100.html"/>
+<rdf:li resource="https://www.br.de/radio/bayern1/rente-mehr-geld-mit-altersvorsorgedepot-100.html"/>
+<rdf:li resource="https://www.br.de/radio/bayern1/mikroplastik-im-trinkwasser-100.html"/>
+<rdf:li resource="https://www.br.de/radio/bayern1/laesst-sich-die-reaktionszeit-trainieren-100.html"/>
+<rdf:li resource="https://www.br.de/radio/bayern1/alte-buecher-wie-neu-100.html"/>
+<rdf:li resource="https://www.br.de/radio/bayern1/enten-fuettern-100.html"/>
+<rdf:li resource="https://www.br.de/radio/bayern1/vanillekipferl-100.html"/>
+<rdf:li resource="https://www.br.de/radio/bayern1/stollen-rezept-104.html"/>
+<rdf:li resource="https://www.br.de/radio/bayern1/husarenkrapfen-100.html"/>
+<rdf:li resource="https://www.instagram.com/reel/DfTrXRsjv46/"/>
+<rdf:li resource="https://www.instagram.com/reel/Dd-ndPgFPua/"/>
+<rdf:li resource="https://www.instagram.com/reel/DfY2GLBjbd8/"/>
+<rdf:li resource="https://www.br.de/radio/bayern1/gulasch-vorkochen-100.html"/>
+<rdf:li resource="https://www.br.de/radio/bayern1/fregola-sarda-100.html"/>
+<rdf:li resource="https://www.br.de/radio/bayern1/kraeuterseitlinge-als-fleischersatz-100.html"/>
+<rdf:li resource="https://www.br.de/radio/bayern1/spaghetti-cacio-e-pepe-100.html"/>
+<rdf:li resource="https://www.br.de/radio/bayern1/linsensuppe-100.html"/>
+<rdf:li resource="https://www.br.de/radio/bayern1/eierpunsch-100.html"/>
+<rdf:li resource="https://www.br.de/radio/bayern1/beginnende-erkaeltung-stoppen-100.html"/>
+<rdf:li resource="https://www.br.de/radio/bayern1/ingwer-tee-102.html"/>
+<rdf:li resource="https://www.br.de/radio/bayern1/wie-lange-dauert-eine-erkaeltung-100.html"/>
+<rdf:li resource="https://www.br.de/radio/bayern1/laut-schnaeuzen-100.html"/>
+<rdf:li resource="https://www.br.de/radio/bayern1/welcher-tee-bei-erkaeltung-100.html"/>
+<rdf:li resource="https://www.br.de/radio/bayern1/grippeimpfung-104.html"/>
+<rdf:li resource="https://www.br.de/radio/bayern1/herbstkranz100.html"/>
+<rdf:li resource="https://www.br.de/radio/bayern1/sendungen/am-vormittag/video-giesskanne-lichtersprudel-100.html"/>
+<rdf:li resource="https://www.br.de/radio/bayern1/blumenzwiebeln-setzen-100.html"/>
+<rdf:li resource="https://www.br.de/radio/bayern1/rasenmaehen-im-herbst-100.html"/>
+<rdf:li resource="https://www.br.de/radio/bayern1/rosmarin-ueberwintern-100.html"/>
+<rdf:li resource="https://www.br.de/radio/bayern1/herbstputz-im-garten-oder-nicht-100.html"/>
+<rdf:li resource="https://www.ardsounds.de/episode/urn:ard:episode:38bcd2162d89badb/"/>
+<rdf:li resource="https://www.ardsounds.de/episode/urn:ard:episode:f430460528f625df/"/>
+<rdf:li resource="https://www.ardsounds.de/episode/urn:ard:episode:93746404013ad3a7/"/>
+<rdf:li resource="https://www.ardsounds.de/episode/urn:ard:episode:f1d208fb53eb6111/"/>
+<rdf:li resource="https://www.ardsounds.de/episode/urn:ard:section:3801cba5c6e2a090/"/>
+<rdf:li resource="https://www.ardsounds.de/episode/urn:ard:episode:0c638948209bb4a8/"/>
+<rdf:li resource="https://www.ardsounds.de/episode/urn:ard:section:90553c32f48c04bf/"/>
+<rdf:li resource="https://www.ardaudiothek.de/episode/urn:ard:episode:e1b5d3bdc7f4683d/"/>
+<rdf:li resource="https://www.ardsounds.de/episode/urn:ard:episode:710d5e872b509c5e/"/>
+<rdf:li resource="https://www.br.de/radio/bayern1/legionellen-102.html"/>
+<rdf:li resource="https://www.br.de/radio/bayern1/titandioxid-100.html"/>
+<rdf:li resource="https://www.br.de/radio/bayern1/demenz-vorbeugen-100.html"/>
+<rdf:li resource="https://www.br.de/radio/bayern1/radltour-konzerte-rueckblick-100.html"/>
+<rdf:li resource="https://www.br.de/radio/bayern1/bayern-1-wirtshausquiz-anmeldung-100.html"/>
+<rdf:li resource="https://www.br.de/radio/bayern1/spider-murphy-gang-feiert-50-jaehriges-jubliaeum-100.html"/>
+<rdf:li resource="https://www.br.de/radio/bayern1/moderatorenseite-marcus-fahn-100.html"/>
+<rdf:li resource="https://www.br.de/radio/bayern1/moderatorenseite-melitta-varlam-100.html"/>
+<rdf:li resource="https://www.br.de/radio/bayern1/service/team/bayern1-team-susanne-rohrer-100.html"/>
+<rdf:li resource="https://www.br.de/radio/bayern1/ulla-mueller-moderatorenseite-100.html"/>
+<rdf:li resource="https://www.br.de/radio/bayern1/sendungen/blaue-couch/index.html"/>
+<rdf:li resource="https://www.br.de/radio/bayern-1/welle110.html"/>
+<rdf:li resource="https://www.br.de/radio/bayern1/radiobayern1/aktionen/night-of-the-proms-116.html"/>
+<rdf:li resource="https://www.br.de/radio/bayern1/bayern-1-praesentiert-abbamania-100.html"/>
+<rdf:li resource="https://www.br.de/radio/bayern1/radiobayern1/aktionen/bayern-1-ballon-rundfahrt-himmel100.html"/>
+<rdf:li resource="https://www.br.de/radio/bayern1/radiobayern1/aktionen/bayern1-disco-bayern-100.html"/>
+<rdf:li resource="https://www.br.de/radio/bayern1/stadt-land-bayern1-100.html"/>
+<rdf:li resource="https://www.br.de/radio/bayern1/bayern1-am-freitagabend-100.html"/>
+<rdf:li resource="https://www.br.de/radio/bayern1/gute-buecher-100.html"/>
+<rdf:li resource="https://www.br.de/radio/bayern1/traumhausverlosung-100.html"/>
+<rdf:li resource="https://www.br.de/radio/bayern1/alkohol-und-e-scooter-oder-rad-100.html"/>
+<rdf:li resource="https://www.br.de/radio/bayern1/weihnachtsmaerkte-bayern-100.html"/>
+<rdf:li resource="https://www.br.de/radio/bayern1/service/newsletter/newsletter-anmeldung-102.html"/>
+<rdf:li resource="https://www.br.de/radio/bayern1/whatsapp-aktuelles-100.html"/>
+<rdf:li resource="https://www.br.de/radio/bayern1/feiertage-in-bayern-100.html"/>
+<rdf:li resource="https://www.br.de/radio/bayern1/histaminintoleranz-100.html"/>
+<rdf:li resource="https://www.br.de/radio/bayern1/email-hack-pruefen-100.html"/>
+<rdf:li resource="https://www.br.de/radio/bayern1/namenstag-heute-100.html"/>
+<rdf:li resource="https://www.br.de/radio/bayern1/ibuprofen-gefaehrlich-100.html"/>
+<rdf:li resource="https://www.br.de/radio/bayern1/formular-gute-geschichte-100.html"/>
+</rdf:Seq>
+</items>
+</channel>
+<item rdf:about="https://www.br.de/radio/bayern1/nuechtern-zum-arzt-100.html">
+<title>Nüchtern zum Arzt: Nüchtern zum Arzt - ist ein Kaffee vorher erlaubt?</title>
+<link>https://www.br.de/radio/bayern1/nuechtern-zum-arzt-100.html</link>
+<description>Sie wurden angewiesen, zum nächsten Arztbesuch &quot;nüchtern&quot; zu erscheinen, weil beispielsweise eine Blutabnahme ansteht? Doch was genau bedeutet &quot;nüchtern&quot;? Darf man morgens trotzdem ein Glas Wasser oder einen Kaffee trinken und was heißt das für die Medikamenteneinnahme? </description>
+<dc:type>article</dc:type>
+<dc:date>2026-02-11T11:39:00+01:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>nuechtern-zum-arzt-100</dc:identifier>
+<dc:source>BR.de</dc:source>
+<dc:language>de</dc:language>
+<dc:rights>Bayerischer Rundfunk</dc:rights>
+<dc:subject>/radio/bayern1</dc:subject>
+<dcterms:audience>all</dcterms:audience>
+</item>
+<item rdf:about="https://www.br.de/radio/bayern1/kontakt/alle-kontakte/index.html">
+<title>Ihr Kontakt zu Bayern 1: So erreichen Sie uns</title>
+<link>https://www.br.de/radio/bayern1/kontakt/alle-kontakte/index.html</link>
+<description>Sie möchten uns etwas sagen - oder vielleicht sogar ein Bild oder Video zeigen? Hier finden Sie alle Möglichkeiten, uns zu kontaktieren. Wir von Bayern 1 freuen uns auf Ihre Nachrichten.</description>
+<dc:type>article</dc:type>
+<dc:date>2025-11-27T16:44:00+01:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>kontakt-zu-bayern1-100</dc:identifier>
+<dc:source>BR.de</dc:source>
+<dc:language>de</dc:language>
+<dc:rights>Bayerischer Rundfunk</dc:rights>
+<dc:subject>/radio/bayern1</dc:subject>
+<dcterms:audience>all</dcterms:audience>
+</item>
+<item rdf:about="https://www.br.de/radio/bayern1/was-koch-ich-heute-bayern-eins-100.html">
+<title>Was koch&#39; ich heute?: Hier finden Sie täglich eine gute Rezeptidee zur Inspiration</title>
+<link>https://www.br.de/radio/bayern1/was-koch-ich-heute-bayern-eins-100.html</link>
+<description>Über 80.000 Menschen präsentieren in der Facebook Gruppe &quot;Was koch ich heute?&quot; ihre Lieblingsrezepte. So viele guten Ideen, da picken wir ab sofort jeden Tag ein Rezept für Sie raus.</description>
+<dc:type>article</dc:type>
+<dc:date>2026-11-20T07:21:00+01:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>was-koch-ich-heute-bayern-eins-100</dc:identifier>
+<dc:source>BR.de</dc:source>
+<dc:language>de</dc:language>
+<dc:rights>Bayerischer Rundfunk</dc:rights>
+<dc:subject>/radio/bayern1</dc:subject>
+<dcterms:audience>all</dcterms:audience>
+</item>
+<item rdf:about="https://www.br.de/radio/bayern1/kontakt/coin/index.html">
+<title>Ihre Frage in den Nachrichten: Schicken Sie uns Ihre Fragen zu aktuellen Themen</title>
+<link>https://www.br.de/radio/bayern1/kontakt/coin/index.html</link>
+<description>Vielleicht haben Sie heute Morgen eine Schlagzeile gehört und sich gefragt: Was bedeutet das eigentlich für mich? Für meinen Geldbeutel, meine Familie, meinen Alltag hier in Bayern? Dann sind Sie bei uns genau richtig.</description>
+<dc:type>article</dc:type>
+<dc:date>2026-06-25T14:20:00+02:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>news-mit-ihnen-100</dc:identifier>
+<dc:source>BR.de</dc:source>
+<dc:language>de</dc:language>
+<dc:rights>Bayerischer Rundfunk</dc:rights>
+<dc:subject>/radio/bayern1</dc:subject>
+<dcterms:audience>all</dcterms:audience>
+</item>
+<item rdf:about="https://www.br.de/radio/bayern1/radio-und-podcast-hoeren-in-ard-sounds-100.html">
+<title>Alles hören - an einem Ort, auch im Ausland: Bayern 1 Radio und Podcasts in der ARD Sounds App genießen</title>
+<link>https://www.br.de/radio/bayern1/radio-und-podcast-hoeren-in-ard-sounds-100.html</link>
+<description>Bayern 1 hören – jederzeit und überall. Mit der ARD‑Sounds‑App gelingt das in wenigen Schritten. Wir zeigen Ihnen, wie Sie Bayern 1 als Favorit anlegen und das Programm bequem unterwegs nutzen.</description>
+<dc:type>article</dc:type>
+<dc:date>2026-10-02T12:10:00+02:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>radio-und-podcast-hoeren-in-ard-sounds-100</dc:identifier>
+<dc:source>BR.de</dc:source>
+<dc:language>de</dc:language>
+<dc:rights>Bayerischer Rundfunk</dc:rights>
+<dc:subject>/radio/bayern1</dc:subject>
+<dcterms:audience>all</dcterms:audience>
+</item>
+<item rdf:about="https://www.br.de/radio/bayern1/wann-ist-black-friday-2026-100.html">
+<title>Wann ist heuer Black Friday?: Lohnt es sich, schon vor dem Black Friday einzukaufen?</title>
+<link>https://www.br.de/radio/bayern1/wann-ist-black-friday-2026-100.html</link>
+<description>Wann ist Black Friday 2026? Und wann Cyber Monday? Die Aktionstage sind für viele Verbraucherinnen und Verbraucher ein gern genutzter Shoppingtermin. Lohnt es sich, schon vor diesen Terminen einzukaufen, und wie gut sind die Rabatte wirklich?</description>
+<dc:type>article</dc:type>
+<dc:date>2026-11-19T09:52:00+01:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>wann-ist-black-friday-2026-100</dc:identifier>
+<dc:source>BR.de</dc:source>
+<dc:language>de</dc:language>
+<dc:rights>Bayerischer Rundfunk</dc:rights>
+<dc:subject>/radio/bayern1</dc:subject>
+<dcterms:audience>all</dcterms:audience>
+</item>
+<item rdf:about="https://www.br.de/radio/bayern1/raupe-nimmersatt-auf-bairisch-100.html">
+<title>Raupe Nimmersatt auf Bairisch: Lassen Sie sich die Raupe Nimmersatt auf Bairisch vorlesen!</title>
+<link>https://www.br.de/radio/bayern1/raupe-nimmersatt-auf-bairisch-100.html</link>
+<description>Welches Kind hat sie nicht vorgelesen bekommen, die kleine Raupe Nimmersatt. Wir feiern sie zum bundesweiten Vorlesetag am Freitag, 20. November, mit einer bairischen Version.</description>
+<dc:type>article</dc:type>
+<dc:date>2026-11-19T11:26:00+01:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>raupe-nimmersatt-auf-bairisch-100</dc:identifier>
+<dc:source>BR.de</dc:source>
+<dc:language>de</dc:language>
+<dc:rights>Bayerischer Rundfunk</dc:rights>
+<dc:subject>/radio/bayern1</dc:subject>
+<dcterms:audience>all</dcterms:audience>
+</item>
+<item rdf:about="https://www.ardsounds.de/episode/urn:ard:episode:99bc93240c41f67b/">
+<title>Warum werden Autos immer größer?: Und was das für unsere Sicherheit und Umwelt bedeutet</title>
+<link>https://www.ardsounds.de/episode/urn:ard:episode:99bc93240c41f67b/</link>
+<description>Autos werden immer breiter, länger und schwerer. Warum eigentlich? Was SUVs und breite Neuwagen für unsere Sicherheit, die Umwelt und Parkplätze bedeuten, können Sie hier in der neuen Folge von &quot;Besser leben&quot; erfahren.</description>
+<dc:type>link</dc:type>
+<dc:date>2026-11-18T14:26:00+01:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>link-besser-leben-grosse-autos-100</dc:identifier>
+<dc:source>BR.de</dc:source>
+<dc:language>de</dc:language>
+<dc:rights>Bayerischer Rundfunk</dc:rights>
+<dc:subject>/radio/bayern1</dc:subject>
+<dcterms:audience>all</dcterms:audience>
+</item>
+<item rdf:about="https://www.br.de/radio/bayern1/wem-ist-das-passiert-100.html">
+<title>Philipp Eger oder Marcus Fahn - wem ist es passiert? : Wer hat noch nie in seinem Leben an einer Zigarette gezogen?</title>
+<link>https://www.br.de/radio/bayern1/wem-ist-das-passiert-100.html</link>
+<description>Marcus Fahn und sein Morgenkumpel Philipp Eger wechseln sich seit diesem Herbst mit der Bayern 1 Morningshow ab. Lernen Sie die beiden hier von ganz neuen Seiten kennen und rätseln Sie jeden Tag mit. Heute: Wer hat noch nie in seinem Leben an einer Zigarette gezogen?</description>
+<dc:type>article</dc:type>
+<dc:date>2026-11-20T08:14:00+01:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>wem-ist-das-passiert-100</dc:identifier>
+<dc:source>BR.de</dc:source>
+<dc:language>de</dc:language>
+<dc:rights>Bayerischer Rundfunk</dc:rights>
+<dc:subject>/radio/bayern1</dc:subject>
+<dcterms:audience>all</dcterms:audience>
+</item>
+<item rdf:about="https://www.br.de/radio/bayern1/rechnet-sich-das-altersvorsorgedepot-auch-fuer-aeltere-100.html">
+<title>Rechnet sich das Altersvorsorgedepot noch?: So profitieren auch Späteinsteiger</title>
+<link>https://www.br.de/radio/bayern1/rechnet-sich-das-altersvorsorgedepot-auch-fuer-aeltere-100.html</link>
+<description>Bis zu 540 Euro pro Jahr zahlt der Staat ab 2027 dazu, wenn wir ein Altersvorsorgedepot anlegen und mindestens zehn Euro pro Monat einzahlen. Das lohnt sich vor allem für junge Menschen. Aber auch, wenn ich schon in wenigen Jahren in Rente gehe?</description>
+<dc:type>article</dc:type>
+<dc:date>2026-11-17T15:35:00+01:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>rechnet-sich-das-altersvorsorgedepot-auch-fuer-aeltere-100</dc:identifier>
+<dc:source>BR.de</dc:source>
+<dc:language>de</dc:language>
+<dc:rights>Bayerischer Rundfunk</dc:rights>
+<dc:subject>/radio/bayern1</dc:subject>
+<dcterms:audience>all</dcterms:audience>
+</item>
+<item rdf:about="https://www.br.de/radio/bayern1/handwerkerrechnungen-von-der-steuer-absetzen-100.html">
+<title>Wie kann ich Handwerkerkosten 2026 von der Steuer absetzen: Was muss auf der Rechnung stehen?</title>
+<link>https://www.br.de/radio/bayern1/handwerkerrechnungen-von-der-steuer-absetzen-100.html</link>
+<description>Wie setze ich Handwerkerkosten von der Steuer ab? Was muss auf der Handwerkerrechnung stehen? Und wie hoch ist der Steuervorteil? Lohnt sich das, jetzt noch schnell etwas zu beauftragen? Diese Fragen beantwortet uns eine Expertin.</description>
+<dc:type>article</dc:type>
+<dc:date>2026-11-18T12:49:00+01:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>handwerkerrechnungen-von-der-steuer-absetzen-100</dc:identifier>
+<dc:source>BR.de</dc:source>
+<dc:language>de</dc:language>
+<dc:rights>Bayerischer Rundfunk</dc:rights>
+<dc:subject>/radio/bayern1</dc:subject>
+<dcterms:audience>all</dcterms:audience>
+</item>
+<item rdf:about="https://www.br.de/radio/bayern1/wie-kann-ich-beim-medikamenten-einkauf-sparen-100.html">
+<title>Wie spare ich beim Medikamenten-Einkauf?: Diese Frage in der Apotheke kann helfen</title>
+<link>https://www.br.de/radio/bayern1/wie-kann-ich-beim-medikamenten-einkauf-sparen-100.html</link>
+<description>Die Zuzahlungen bei Medikamenten steigen ab 1. Januar 2027 deutlich. Kassenpatienten zahlen dann mindestens 7,50 Euro pro Verschreibung. Wir haben Experten gefragt: Wie kann man bei Einkauf von Medikamenten sparen?</description>
+<dc:type>article</dc:type>
+<dc:date>2026-11-12T15:32:00+01:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>wie-kann-ich-beim-medikamenten-einkauf-sparen-100</dc:identifier>
+<dc:source>BR.de</dc:source>
+<dc:language>de</dc:language>
+<dc:rights>Bayerischer Rundfunk</dc:rights>
+<dc:subject>/radio/bayern1</dc:subject>
+<dcterms:audience>all</dcterms:audience>
+</item>
+<item rdf:about="https://www.br.de/radio/bayern1/rente-mehr-geld-mit-altersvorsorgedepot-100.html">
+<title>Das neue Altersvorsorgedepot: Ihre Fragen zum Altersvorsorgedepot</title>
+<link>https://www.br.de/radio/bayern1/rente-mehr-geld-mit-altersvorsorgedepot-100.html</link>
+<description>Ab Januar 2027 wird das sogenannte Altersvorsorgedepot eingeführt. Statt in private Rentenversicherungen mit schwacher Rendite einzuzahlen, sollen die Deutschen am Kapitalmarkt investieren, damit mehr für die Rente bleibt. Wir beantworten die wichtigsten Fragen.  </description>
+<dc:type>article</dc:type>
+<dc:date>2026-11-17T14:20:00+01:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>rente-mehr-geld-mit-altersvorsorgedepot-100</dc:identifier>
+<dc:source>BR.de</dc:source>
+<dc:language>de</dc:language>
+<dc:rights>Bayerischer Rundfunk</dc:rights>
+<dc:subject>/radio/bayern1</dc:subject>
+<dcterms:audience>all</dcterms:audience>
+</item>
+<item rdf:about="https://www.br.de/radio/bayern1/mikroplastik-im-trinkwasser-100.html">
+<title>Mikroplastik im Trinkwasser: Wo ist mehr drin – in Leitungswasser oder in Mineralwasser?</title>
+<link>https://www.br.de/radio/bayern1/mikroplastik-im-trinkwasser-100.html</link>
+<description>Wo ist mehr Mikroplastik drin, in unserem Leitungswasser oder in Mineralwasserflaschen aus dem Handel, aus PET oder Glas? Kathrin Kolb und Florian Kienast von unserem Besser leben Podcast haben nachgefragt.</description>
+<dc:type>article</dc:type>
+<dc:date>2025-11-19T15:13:00+01:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>mikroplastik-im-trinkwasser-100</dc:identifier>
+<dc:source>BR.de</dc:source>
+<dc:language>de</dc:language>
+<dc:rights>Bayerischer Rundfunk</dc:rights>
+<dc:subject>/radio/bayern1</dc:subject>
+<dcterms:audience>all</dcterms:audience>
+</item>
+<item rdf:about="https://www.br.de/radio/bayern1/laesst-sich-die-reaktionszeit-trainieren-100.html">
+<title>Schneller werden durch ein Lineal?: Dieser einfache Test verrät etwas über Ihre Reaktionszeit</title>
+<link>https://www.br.de/radio/bayern1/laesst-sich-die-reaktionszeit-trainieren-100.html</link>
+<description>Ein fallendes Lineal, ein schneller Griff: Mit diesem einfachen Test lässt sich die Reaktionsgeschwindigkeit messen. Aber kann man darin durch Übung wirklich besser werden?</description>
+<dc:type>article</dc:type>
+<dc:date>2026-11-13T14:36:00+01:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>laesst-sich-die-reaktionszeit-trainieren-100</dc:identifier>
+<dc:source>BR.de</dc:source>
+<dc:language>de</dc:language>
+<dc:rights>Bayerischer Rundfunk</dc:rights>
+<dc:subject>/radio/bayern1</dc:subject>
+<dcterms:audience>all</dcterms:audience>
+</item>
+<item rdf:about="https://www.br.de/radio/bayern1/alte-buecher-wie-neu-100.html">
+<title>Lästige Gerüche und Schimmel entfernen: Wie bekomme ich gebrauchte Bücher wieder frisch? </title>
+<link>https://www.br.de/radio/bayern1/alte-buecher-wie-neu-100.html</link>
+<description>Die alten Bücher auf dem Dachboden oder die neuesten Funde aus dem Bücherschrank haben oft einen intensiven Geruch und so manche Gebrauchsspuren. Um die wieder frisch zu bekommen empfiehlt Dr. Laura Scherr, Archivdirektorin der staatlichen Archive Bayerns diese Hausmittel:</description>
+<dc:type>article</dc:type>
+<dc:date>2026-11-18T11:56:00+01:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>alte-buecher-wie-neu-100</dc:identifier>
+<dc:source>BR.de</dc:source>
+<dc:language>de</dc:language>
+<dc:rights>Bayerischer Rundfunk</dc:rights>
+<dc:subject>/radio/bayern1</dc:subject>
+<dcterms:audience>all</dcterms:audience>
+</item>
+<item rdf:about="https://www.br.de/radio/bayern1/enten-fuettern-100.html">
+<title>Enten füttern: Kein Brot: Diesen gesunden Snack für Enten hat jeder zu Hause</title>
+<link>https://www.br.de/radio/bayern1/enten-fuettern-100.html</link>
+<description>Ausgerechnet der Entenfutter-Klassiker &quot;Brot&quot; kann für die Tiere tödlich sein. Was Sie Enten mit gutem Gewissen geben können. </description>
+<dc:type>article</dc:type>
+<dc:date>2025-06-16T09:43:00+02:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>enten-fuettern-100</dc:identifier>
+<dc:source>BR.de</dc:source>
+<dc:language>de</dc:language>
+<dc:rights>Bayerischer Rundfunk</dc:rights>
+<dc:subject>/radio/bayern1</dc:subject>
+<dcterms:audience>all</dcterms:audience>
+</item>
+<item rdf:about="https://www.br.de/radio/bayern1/vanillekipferl-100.html">
+<title>Vanillekipferl: Bestes Rezept für Kipferl</title>
+<link>https://www.br.de/radio/bayern1/vanillekipferl-100.html</link>
+<description>Bayern 1 Moderatorin Susanne Rohrer verrät uns hier ihr jahrelang erprobtes, weltbestes Vanillekipferl-Rezept für Sie. Mit Trick gegen das Zerlaufen und Zerbröseln.</description>
+<dc:type>article</dc:type>
+<dc:date>2026-11-03T15:00:00+01:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>vanillekipferl-100</dc:identifier>
+<dc:source>BR.de</dc:source>
+<dc:language>de</dc:language>
+<dc:rights>Bayerischer Rundfunk</dc:rights>
+<dc:subject>/radio/bayern1</dc:subject>
+<dcterms:audience>all</dcterms:audience>
+</item>
+<item rdf:about="https://www.br.de/radio/bayern1/stollen-rezept-104.html">
+<title>Stollen Rezept: Saftig und buttrig - Christstollen backen</title>
+<link>https://www.br.de/radio/bayern1/stollen-rezept-104.html</link>
+<description>Stollen backen ist gar nicht schwer -  man muss dem Christstollen nur Zeit geben um durchzuziehen, dann wird er schön saftig. Mit diesem Rezept klappt&#39;s.</description>
+<dc:type>article</dc:type>
+<dc:date>2026-11-13T13:47:00+01:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>stollen-rezept-104</dc:identifier>
+<dc:source>BR.de</dc:source>
+<dc:language>de</dc:language>
+<dc:rights>Bayerischer Rundfunk</dc:rights>
+<dc:subject>/radio/bayern1</dc:subject>
+<dcterms:audience>all</dcterms:audience>
+</item>
+<item rdf:about="https://www.br.de/radio/bayern1/husarenkrapfen-100.html">
+<title>Husarenkrapfen: Rezept für mürbe Husarenkrapferl</title>
+<link>https://www.br.de/radio/bayern1/husarenkrapfen-100.html</link>
+<description>Diese Plätzchen schmecken besonders mürbe, wenn man dem Teig genügend Zeit im Kühlschrank gibt. Für die Füllung der Husarenkrapfen wählen Sie einfach Ihre Lieblingsmarmelade. Zum Rezept hier entlang.</description>
+<dc:type>article</dc:type>
+<dc:date>2026-11-09T11:15:00+01:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>husarenkrapfen-100</dc:identifier>
+<dc:source>BR.de</dc:source>
+<dc:language>de</dc:language>
+<dc:rights>Bayerischer Rundfunk</dc:rights>
+<dc:subject>/radio/bayern1</dc:subject>
+<dcterms:audience>all</dcterms:audience>
+</item>
+<item rdf:about="https://www.instagram.com/reel/DfTrXRsjv46/">
+<title>&quot;Herzklopfen&quot; in Würzburg: &quot;Und dann war ich verliebt&quot;</title>
+<link>https://www.instagram.com/reel/DfTrXRsjv46/</link>
+<description>Manchmal ist es nur eine winzige Entscheidung, die das ganze Leben in eine neue Richtung lenkt: Wie bei diesem Paar in Würzburg, das seit 20 Jahren glücklich miteinander ist. Und das nur, weil sie statt ihrer Mitbewohnerin auf das Date gegangen ist </description>
+<dc:type>link</dc:type>
+<dc:date>2026-11-16T11:06:41+01:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>herzklopfen-link-wuerzburg-100</dc:identifier>
+<dc:source>BR.de</dc:source>
+<dc:language>de</dc:language>
+<dc:rights>Bayerischer Rundfunk</dc:rights>
+<dc:subject>/radio/bayern1</dc:subject>
+<dcterms:audience>all</dcterms:audience>
+</item>
+<item rdf:about="https://www.instagram.com/reel/Dd-ndPgFPua/">
+<title>Patchwork-Liebe: Von der besten Freundin im Supermarkt verkuppelt</title>
+<link>https://www.instagram.com/reel/Dd-ndPgFPua/</link>
+<description>Die beiden wurden richtig schön im Supermarkt verkuppelt. Bei diesem Paar, das wir in Straubing getroffen haben, spüren wir die Liebe in jedem Satz und jedem Blick. Toll! Und ihre Sicht auf die eigene Patchworkfamilie ist herrlich pragmatisch und ehrlich.</description>
+<dc:type>link</dc:type>
+<dc:date>2026-11-09T13:32:08+01:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>link-herzklopfen-supermarkt-100</dc:identifier>
+<dc:source>BR.de</dc:source>
+<dc:language>de</dc:language>
+<dc:rights>Bayerischer Rundfunk</dc:rights>
+<dc:subject>/radio/bayern1</dc:subject>
+<dcterms:audience>all</dcterms:audience>
+</item>
+<item rdf:about="https://www.instagram.com/reel/DfY2GLBjbd8/">
+<title>Tischtennis zum ersten Date: Wer war hier zuerst verliebt?</title>
+<link>https://www.instagram.com/reel/DfY2GLBjbd8/</link>
+<description>Dieses junge Paar, das wir in Dachau getroffen haben, ist jetzt seit einem Jahr zusammen und erzählt uns von der frischen Liebe. Und wir sind einfach nur verzaubert.</description>
+<dc:type>link</dc:type>
+<dc:date>2026-11-09T13:32:08+01:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>link-herzklopfen-supermarkt-102</dc:identifier>
+<dc:source>BR.de</dc:source>
+<dc:language>de</dc:language>
+<dc:rights>Bayerischer Rundfunk</dc:rights>
+<dc:subject>/radio/bayern1</dc:subject>
+<dcterms:audience>all</dcterms:audience>
+</item>
+<item rdf:about="https://www.br.de/radio/bayern1/gulasch-vorkochen-100.html">
+<title>Gulasch: Rezept für klassisches Rindergulasch</title>
+<link>https://www.br.de/radio/bayern1/gulasch-vorkochen-100.html</link>
+<description></description>
+<dc:type>article</dc:type>
+<dc:date>2025-01-13T10:36:00+01:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>gulasch-vorkochen-100</dc:identifier>
+<dc:source>BR.de</dc:source>
+<dc:language>de</dc:language>
+<dc:rights>Bayerischer Rundfunk</dc:rights>
+<dc:subject>/radio/bayern1</dc:subject>
+<dcterms:audience>all</dcterms:audience>
+</item>
+<item rdf:about="https://www.br.de/radio/bayern1/fregola-sarda-100.html">
+<title>Fregola Sarda: Rezept für Nudelsuppe mit Maroni und Speck</title>
+<link>https://www.br.de/radio/bayern1/fregola-sarda-100.html</link>
+<description></description>
+<dc:type>article</dc:type>
+<dc:date>2025-11-05T14:42:00+01:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>fregola-sarda-100</dc:identifier>
+<dc:source>BR.de</dc:source>
+<dc:language>de</dc:language>
+<dc:rights>Bayerischer Rundfunk</dc:rights>
+<dc:subject>/radio/bayern1</dc:subject>
+<dcterms:audience>all</dcterms:audience>
+</item>
+<item rdf:about="https://www.br.de/radio/bayern1/kraeuterseitlinge-als-fleischersatz-100.html">
+<title>Kräuterseitlinge als Fleischersatz: So werden die Pilze richtig Umami</title>
+<link>https://www.br.de/radio/bayern1/kraeuterseitlinge-als-fleischersatz-100.html</link>
+<description></description>
+<dc:type>article</dc:type>
+<dc:date>2026-11-17T09:50:00+01:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>kraeuterseitlinge-als-fleischersatz-100</dc:identifier>
+<dc:source>BR.de</dc:source>
+<dc:language>de</dc:language>
+<dc:rights>Bayerischer Rundfunk</dc:rights>
+<dc:subject>/radio/bayern1</dc:subject>
+<dcterms:audience>all</dcterms:audience>
+</item>
+<item rdf:about="https://www.br.de/radio/bayern1/spaghetti-cacio-e-pepe-100.html">
+<title>Spaghetti Cacio e Pepe: Rezept für Spaghetti mit Käse und Pfeffer</title>
+<link>https://www.br.de/radio/bayern1/spaghetti-cacio-e-pepe-100.html</link>
+<description></description>
+<dc:type>article</dc:type>
+<dc:date>2024-12-04T11:26:00+01:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>spaghetti-cacio-e-pepe-100</dc:identifier>
+<dc:source>BR.de</dc:source>
+<dc:language>de</dc:language>
+<dc:rights>Bayerischer Rundfunk</dc:rights>
+<dc:subject>/radio/bayern1</dc:subject>
+<dcterms:audience>all</dcterms:audience>
+</item>
+<item rdf:about="https://www.br.de/radio/bayern1/linsensuppe-100.html">
+<title>Linsensuppe: Rezept für die klassische Linsensuppe in zwei Varianten</title>
+<link>https://www.br.de/radio/bayern1/linsensuppe-100.html</link>
+<description></description>
+<dc:type>article</dc:type>
+<dc:date>2025-02-28T14:43:00+01:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>linsensuppe-100</dc:identifier>
+<dc:source>BR.de</dc:source>
+<dc:language>de</dc:language>
+<dc:rights>Bayerischer Rundfunk</dc:rights>
+<dc:subject>/radio/bayern1</dc:subject>
+<dcterms:audience>all</dcterms:audience>
+</item>
+<item rdf:about="https://www.br.de/radio/bayern1/eierpunsch-100.html">
+<title>Eierpunsch selbst gemacht: Ein Rezept wie vom Weihnachtsmarkt</title>
+<link>https://www.br.de/radio/bayern1/eierpunsch-100.html</link>
+<description></description>
+<dc:type>article</dc:type>
+<dc:date>2025-10-09T12:28:00+02:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>eierpunsch-100</dc:identifier>
+<dc:source>BR.de</dc:source>
+<dc:language>de</dc:language>
+<dc:rights>Bayerischer Rundfunk</dc:rights>
+<dc:subject>/radio/bayern1</dc:subject>
+<dcterms:audience>all</dcterms:audience>
+</item>
+<item rdf:about="https://www.br.de/radio/bayern1/beginnende-erkaeltung-stoppen-100.html">
+<title>Beginnende Erkältung stoppen: Wir haben den &quot;24-Stunden Plan&quot; gegen Erkältung getestet</title>
+<link>https://www.br.de/radio/bayern1/beginnende-erkaeltung-stoppen-100.html</link>
+<description>Es geht wieder los, man schnieft und niest und hustet. Aber gibt es wirklich ein Turbomittel gegen Erkältung? Wir haben die detaillierte Liste eines walisischen Arzts in Sachen Ernährung und Aktivitäten 24 Stunden lang penibel befolgt. Ob&#39;s klappt, hier.</description>
+<dc:type>article</dc:type>
+<dc:date>2026-09-28T11:38:00+02:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>beginnende-erkaeltung-stoppen-100</dc:identifier>
+<dc:source>BR.de</dc:source>
+<dc:language>de</dc:language>
+<dc:rights>Bayerischer Rundfunk</dc:rights>
+<dc:subject>/radio/bayern1</dc:subject>
+<dcterms:audience>all</dcterms:audience>
+</item>
+<item rdf:about="https://www.br.de/radio/bayern1/ingwer-tee-102.html">
+<title>Ingwer Tee: So bereiten wir unseren Ingwertee selber zu</title>
+<link>https://www.br.de/radio/bayern1/ingwer-tee-102.html</link>
+<description>Soll man den Ingwer grob oder fein schneiden und darf das Wasser überhaupt kochend heiß sein wegen der ätherischen Öle? So bereiten Sie Ihren Ingwertee am besten zu.</description>
+<dc:type>article</dc:type>
+<dc:date>2025-09-22T15:01:00+02:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>ingwer-tee-102</dc:identifier>
+<dc:source>BR.de</dc:source>
+<dc:language>de</dc:language>
+<dc:rights>Bayerischer Rundfunk</dc:rights>
+<dc:subject>/radio/bayern1</dc:subject>
+<dcterms:audience>all</dcterms:audience>
+</item>
+<item rdf:about="https://www.br.de/radio/bayern1/wie-lange-dauert-eine-erkaeltung-100.html">
+<title>Wie lange dauert eine Erkältung?: Kommt drei Tage, bleibt drei Tage, geht drei Tage? Wirklich?</title>
+<link>https://www.br.de/radio/bayern1/wie-lange-dauert-eine-erkaeltung-100.html</link>
+<description>&quot;Eine Erkältung kommt drei Tage, bleibt drei Tage und geht drei Tage&quot;, heißt es im Volksmund. Stimmt das?</description>
+<dc:type>article</dc:type>
+<dc:date>2026-09-28T11:40:00+02:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>wie-lange-dauert-eine-erkaeltung-100</dc:identifier>
+<dc:source>BR.de</dc:source>
+<dc:language>de</dc:language>
+<dc:rights>Bayerischer Rundfunk</dc:rights>
+<dc:subject>/radio/bayern1</dc:subject>
+<dcterms:audience>all</dcterms:audience>
+</item>
+<item rdf:about="https://www.br.de/radio/bayern1/laut-schnaeuzen-100.html">
+<title>Nase hochziehen ungesund?: Was ist besser: Nase hochziehen oder schnäuzen?</title>
+<link>https://www.br.de/radio/bayern1/laut-schnaeuzen-100.html</link>
+<description>Ist es wirklich ungesund die Nase hochzuziehen? Oder schadet eher zu kräftiges Schnäuzen? Was stimmt - und was nicht. </description>
+<dc:type>article</dc:type>
+<dc:date>2026-02-19T11:12:00+01:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>laut-schnaeuzen-100</dc:identifier>
+<dc:source>BR.de</dc:source>
+<dc:language>de</dc:language>
+<dc:rights>Bayerischer Rundfunk</dc:rights>
+<dc:subject>/radio/bayern1</dc:subject>
+<dcterms:audience>all</dcterms:audience>
+</item>
+<item rdf:about="https://www.br.de/radio/bayern1/welcher-tee-bei-erkaeltung-100.html">
+<title>Welcher Tee bei Erkältung?: Hagebutten, Fichtennadeln &amp; Co: Diese Tees machen warm</title>
+<link>https://www.br.de/radio/bayern1/welcher-tee-bei-erkaeltung-100.html</link>
+<description>Sie müssen nicht warten, bis es im Hals kratzt - unsere selbst gemachten Tees halten warm und tun dem Körper und der Seele an trüben Tagen einfach gut. </description>
+<dc:type>article</dc:type>
+<dc:date>2025-09-17T10:56:00+02:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>welcher-tee-bei-erkaeltung-100</dc:identifier>
+<dc:source>BR.de</dc:source>
+<dc:language>de</dc:language>
+<dc:rights>Bayerischer Rundfunk</dc:rights>
+<dc:subject>/radio/bayern1</dc:subject>
+<dcterms:audience>all</dcterms:audience>
+</item>
+<item rdf:about="https://www.br.de/radio/bayern1/grippeimpfung-104.html">
+<title>Grippeimpfung: Warum eine Grippeschutzimpfung in diesem Winter für alle sehr wichtig ist – auch für Kinder</title>
+<link>https://www.br.de/radio/bayern1/grippeimpfung-104.html</link>
+<description>Für Senioren und chronisch Kranke wird die jährliche Grippeschutzimpfung dringend empfohlen. Warum die Intensivmedizin aktuell fordert, die Impfempfehlung auf alle Erwachsenen und Kinder ab sechs Monaten auszudehnen, lesen Sie hier.</description>
+<dc:type>article</dc:type>
+<dc:date>2025-10-06T08:58:00+02:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>grippeimpfung-104</dc:identifier>
+<dc:source>BR.de</dc:source>
+<dc:language>de</dc:language>
+<dc:rights>Bayerischer Rundfunk</dc:rights>
+<dc:subject>/radio/bayern1</dc:subject>
+<dcterms:audience>all</dcterms:audience>
+</item>
+<item rdf:about="https://www.br.de/radio/bayern1/herbstkranz100.html">
+<title>Herbstkranz basteln: Ideen für Türkränze aus Heidekraut,  Kastanien, Lavendel oder Kürbis</title>
+<link>https://www.br.de/radio/bayern1/herbstkranz100.html</link>
+<description>Diese Herbstkränze verschönern jede Haustür. Wir zeigen Ihnen vier Varianten, die Sie ganz einfach zu Hause basteln können. Die Zutaten finden Sie beim nächsten Spaziergang oder im Garten.</description>
+<dc:type>article</dc:type>
+<dc:date>2025-09-16T08:14:00+02:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>herbstkranz100</dc:identifier>
+<dc:source>BR.de</dc:source>
+<dc:language>de</dc:language>
+<dc:rights>Bayerischer Rundfunk</dc:rights>
+<dc:subject>/radio/bayern1</dc:subject>
+<dcterms:audience>all</dcterms:audience>
+</item>
+<item rdf:about="https://www.br.de/radio/bayern1/sendungen/am-vormittag/video-giesskanne-lichtersprudel-100.html">
+<title>Video Gießkanne Lichtersprudel: So basteln Sie eine Lichterdeko aus einer Gießkanne</title>
+<link>https://www.br.de/radio/bayern1/sendungen/am-vormittag/video-giesskanne-lichtersprudel-100.html</link>
+<description>Bastelprojekt: Lichtersprudel aus der Gießkanne. Endlich bekommt die alte Gießkanne eine neue Bestimmung - nämlich als stimmungsvolle Garten-Deko.</description>
+<dc:type>video</dc:type>
+<dc:date>2024-08-29T11:34:28+02:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>video-giesskanne-lichtersprudel-100</dc:identifier>
+<dc:source>BR.de</dc:source>
+<dc:language>de</dc:language>
+<dc:rights>Bayerischer Rundfunk</dc:rights>
+<dc:subject>/radio/bayern1</dc:subject>
+<dcterms:audience>all</dcterms:audience>
+</item>
+<item rdf:about="https://www.br.de/radio/bayern1/blumenzwiebeln-setzen-100.html">
+<title>Blumenzwiebeln setzen : Im Herbst setzen, was im Fühjahr in voller Pracht erscheint</title>
+<link>https://www.br.de/radio/bayern1/blumenzwiebeln-setzen-100.html</link>
+<description>Wann man am besten die Blumenzwiebeln setzt, an deren Blütenpracht man sich ab dem Frühjahr erfreuen kann und wie man sie gut über den Winter bringt, lesen Sie hier.</description>
+<dc:type>article</dc:type>
+<dc:date>2025-10-24T10:49:00+02:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>blumenzwiebeln-setzen-100</dc:identifier>
+<dc:source>BR.de</dc:source>
+<dc:language>de</dc:language>
+<dc:rights>Bayerischer Rundfunk</dc:rights>
+<dc:subject>/radio/bayern1</dc:subject>
+<dcterms:audience>all</dcterms:audience>
+</item>
+<item rdf:about="https://www.br.de/radio/bayern1/rasenmaehen-im-herbst-100.html">
+<title>Soll ich meinen Rasen jetzt noch mähen?: Und so wird gemähtes Gras mit Laub zum Superdünger</title>
+<link>https://www.br.de/radio/bayern1/rasenmaehen-im-herbst-100.html</link>
+<description>Wie lange ist es sinnvoll, im Herbst meinen Rasen zu mähen? Und wohin mit dem ganzen Laub? Diese Fragen klären wir zusammen mit unserer  Bayern 1 Gartenexpertin Sabrina Nitsche.</description>
+<dc:type>article</dc:type>
+<dc:date>2026-10-09T14:07:00+02:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>rasenmaehen-im-herbst-100</dc:identifier>
+<dc:source>BR.de</dc:source>
+<dc:language>de</dc:language>
+<dc:rights>Bayerischer Rundfunk</dc:rights>
+<dc:subject>/radio/bayern1</dc:subject>
+<dcterms:audience>all</dcterms:audience>
+</item>
+<item rdf:about="https://www.br.de/radio/bayern1/rosmarin-ueberwintern-100.html">
+<title>Rosmarin überwintern: Warum Gießen allein nicht hilft, aber ein Stück Pappe rettet</title>
+<link>https://www.br.de/radio/bayern1/rosmarin-ueberwintern-100.html</link>
+<description>Warum bekommt mein Rosmarin im Winter immer braune Nadeln und geht ein? Wir zeigen, wie wir unseren Rosmarin gut durch den Winter bringen. Denn er kann verdursten - auch wenn wir ihn gießen. Was hilft, hier.</description>
+<dc:type>article</dc:type>
+<dc:date>2025-09-30T11:10:00+02:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>rosmarin-ueberwintern-100</dc:identifier>
+<dc:source>BR.de</dc:source>
+<dc:language>de</dc:language>
+<dc:rights>Bayerischer Rundfunk</dc:rights>
+<dc:subject>/radio/bayern1</dc:subject>
+<dcterms:audience>all</dcterms:audience>
+</item>
+<item rdf:about="https://www.br.de/radio/bayern1/herbstputz-im-garten-oder-nicht-100.html">
+<title>Herbstputz im Garten?: Besser nicht, denn diese Tiere sind auf etwas Unordnung angewiesen</title>
+<link>https://www.br.de/radio/bayern1/herbstputz-im-garten-oder-nicht-100.html</link>
+<description>&quot;Weniger ist mehr im Herbst&quot;, sagt Bayern 1 Gartenexpertin Sabrina Nitsche und verrät, warum es sogar gut ist, Laubhaufen und Äste über den Winter liegenzulassen.</description>
+<dc:type>article</dc:type>
+<dc:date>2026-10-12T11:41:00+02:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>herbstputz-im-garten-oder-nicht-100</dc:identifier>
+<dc:source>BR.de</dc:source>
+<dc:language>de</dc:language>
+<dc:rights>Bayerischer Rundfunk</dc:rights>
+<dc:subject>/radio/bayern1</dc:subject>
+<dcterms:audience>all</dcterms:audience>
+</item>
+<item rdf:about="https://www.ardsounds.de/episode/urn:ard:episode:38bcd2162d89badb/">
+<title>54, 74, 90 … 2026?: Sportfreunde Stiller, &quot;Die Band hält uns jung und neugierig&quot;</title>
+<link>https://www.ardsounds.de/episode/urn:ard:episode:38bcd2162d89badb/</link>
+<description>30 gemeinsame Jahre feiern Peter Brugger, Flo Weber und Rüde Linhof als Erfolgsband &quot;Sportfreunde Stiller&quot;. Zum Jubiläum haben sie ein neues Album herausgebracht und füllen auf ihrer aktuellen Tour die Stadien mit zehntausenden Menschen und guten Vibes. Sie schauen bei Dominique Knoll zurück auf ihre Freundschaft, auf Krisen und Entfremdung, Neustart und Integrität sowie auf ihren kometenhaften Aufstieg aus der Münchner Vorstadt Germering in die großen Stadien bis in den Pop-Olymp (mtv-unplugged). Peter, Flo und Rüde stehen für das Lebensgefühl einer ganzen Generation und für das, was Freundschaft und Kreativität ausmacht – immer „mit dem Herz in der Hand“.</description>
+<dc:type>link</dc:type>
+<dc:date>2026-06-24T15:25:00+02:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>link-bc-sportfreunde-stiller-102</dc:identifier>
+<dc:source>BR.de</dc:source>
+<dc:language>de</dc:language>
+<dc:rights>Bayerischer Rundfunk</dc:rights>
+<dc:subject>/radio/bayern1</dc:subject>
+<dcterms:audience>all</dcterms:audience>
+</item>
+<item rdf:about="https://www.ardsounds.de/episode/urn:ard:episode:f430460528f625df/">
+<title>Zungenbrecher- und Jodelspezialistin: Barbara Lexa, Jodlerin, über schräge Töne und Zungenbrecher</title>
+<link>https://www.ardsounds.de/episode/urn:ard:episode:f430460528f625df/</link>
+<description>Die ersten Jahre ihres Lebens sang Lexa eher schräg, dann konnte sie Töne halten und schon mit neun stand sie mit ihrer Mutter auf der Bühne. Nach Corona und einem gesundheitlichen Tief macht sie heute Menschen mit ihren Jodelkursen glücklich und verblüfft mit bayerischen Zungenbrechern. </description>
+<dc:type>link</dc:type>
+<dc:date>2026-11-17T14:06:00+01:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>link-bc-barbara-lexa-100</dc:identifier>
+<dc:source>BR.de</dc:source>
+<dc:language>de</dc:language>
+<dc:rights>Bayerischer Rundfunk</dc:rights>
+<dc:subject>/radio/bayern1</dc:subject>
+<dcterms:audience>all</dcterms:audience>
+</item>
+<item rdf:about="https://www.ardsounds.de/episode/urn:ard:episode:93746404013ad3a7/">
+<title>Die Wahl-Mallorquinerin: Warum sich Schauspielerin Christine Neubauer immer noch als Vollweib fühlt</title>
+<link>https://www.ardsounds.de/episode/urn:ard:episode:93746404013ad3a7/</link>
+<description>Sagt die Frau, die aus dem dummen Spruch eine Marke gemacht hat. Seit über 10 Jahren lebt sie auf Mallorca, genießt die Wärme und das Licht. Nie hätte sie sich eine andere Karriere als die vor der Kamera und auf der Bühne vorstellen können. Ihre erste Rolle: der dritte Engel von links im Krippenspiel.</description>
+<dc:type>link</dc:type>
+<dc:date>2026-11-16T14:06:00+01:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>link-bc-christine-neubauer-100</dc:identifier>
+<dc:source>BR.de</dc:source>
+<dc:language>de</dc:language>
+<dc:rights>Bayerischer Rundfunk</dc:rights>
+<dc:subject>/radio/bayern1</dc:subject>
+<dcterms:audience>all</dcterms:audience>
+</item>
+<item rdf:about="https://www.ardsounds.de/episode/urn:ard:episode:f1d208fb53eb6111/">
+<title>Der Wald ist seine große Liebe: Moritz Schmid, Pilzsachverständiger, über Verbundenheit und Sinnsuche</title>
+<link>https://www.ardsounds.de/episode/urn:ard:episode:f1d208fb53eb6111/</link>
+<description>Moritz Schmid ist Pilzsachverständiger, Waldbademeister und Pilz-Influencer. Er sammelt Pilze, kocht mit Pilzen und macht Kunst aus Pilzen. Über seine schwierige Kindheit und Jugend, über das Leben als Werbefotograf und die Shootings mit Claudia Schiffer und die Entscheidung, die Models gegen Pilze einzutauschen. Wie er mit seiner Leidenschaft für Pilze glücklich geworden ist, erzählt er bei Thorsten Otto.</description>
+<dc:type>link</dc:type>
+<dc:date>2026-11-11T14:06:00+01:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>link-bc-moritz-schmid-100</dc:identifier>
+<dc:source>BR.de</dc:source>
+<dc:language>de</dc:language>
+<dc:rights>Bayerischer Rundfunk</dc:rights>
+<dc:subject>/radio/bayern1</dc:subject>
+<dcterms:audience>all</dcterms:audience>
+</item>
+<item rdf:about="https://www.ardsounds.de/episode/urn:ard:section:3801cba5c6e2a090/">
+<title>Faltencreme im Check: Was hilft gegen Falten?</title>
+<link>https://www.ardsounds.de/episode/urn:ard:section:3801cba5c6e2a090/</link>
+<description>Hyaluron, Kollagen, Retinol oder Vitamin C: Das Angebot an Faltencremes ist riesig. Aber welche Versprechen halten einer wissenschaftlichen Prüfung stand? Und wie viel Pflege braucht unsere Haut überhaupt?</description>
+<dc:type>link</dc:type>
+<dc:date>2026-11-11T15:56:00+01:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>link-besser-leben-faltencreme-100</dc:identifier>
+<dc:source>BR.de</dc:source>
+<dc:language>de</dc:language>
+<dc:rights>Bayerischer Rundfunk</dc:rights>
+<dc:subject>/radio/bayern1</dc:subject>
+<dcterms:audience>all</dcterms:audience>
+</item>
+<item rdf:about="https://www.ardsounds.de/episode/urn:ard:episode:0c638948209bb4a8/">
+<title>Honig mit gutem Gewissen: So erkennen Sie echte Qualität im Glas</title>
+<link>https://www.ardsounds.de/episode/urn:ard:episode:0c638948209bb4a8/</link>
+<description>Honig klingt nach Idylle: Bienen, Blumen, goldgelbes Glas im Küchenschrank. Aber weltweit wird Honig oft mit billigem Sirup gestreckt – und im Labor wird es immer schwerer, den Betrug nachzuweisen. Was heißt das für Ihr Frühstücksbrötchen mit Honig?</description>
+<dc:type>link</dc:type>
+<dc:date>2026-10-28T09:39:00+01:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>link-besser-leben-guten-honig-erkennen-100</dc:identifier>
+<dc:source>BR.de</dc:source>
+<dc:language>de</dc:language>
+<dc:rights>Bayerischer Rundfunk</dc:rights>
+<dc:subject>/radio/bayern1</dc:subject>
+<dcterms:audience>all</dcterms:audience>
+</item>
+<item rdf:about="https://www.ardsounds.de/episode/urn:ard:section:90553c32f48c04bf/">
+<title>Tabs, Caps oder Pulver für die Spülmaschine?: Welche Geschirrspülmittel lohnen sich wirklich?</title>
+<link>https://www.ardsounds.de/episode/urn:ard:section:90553c32f48c04bf/</link>
+<description>Die Auswahl an Geschirrspülmitteln für die Spülmaschine ist riesig und die Verpackungen versprechen immer mehr. Aber welche Produkte reinigen wirklich gut und welche sind vor allem teuer? </description>
+<dc:type>link</dc:type>
+<dc:date>2026-10-21T14:58:00+02:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>link-besser-leben-spuelmaschine-geschirrspuelmittel-100</dc:identifier>
+<dc:source>BR.de</dc:source>
+<dc:language>de</dc:language>
+<dc:rights>Bayerischer Rundfunk</dc:rights>
+<dc:subject>/radio/bayern1</dc:subject>
+<dcterms:audience>all</dcterms:audience>
+</item>
+<item rdf:about="https://www.ardaudiothek.de/episode/urn:ard:episode:e1b5d3bdc7f4683d/">
+<title>Kabel, Akku oder Roboter: Welcher Staubsauger macht&#39;s am besten?</title>
+<link>https://www.ardaudiothek.de/episode/urn:ard:episode:e1b5d3bdc7f4683d/</link>
+<description>In der neuen Folge von &quot;Besser leben&quot; nehmen Kathrin Kolb und Florian Kienast den Staubsauger unter die Lupe. Kabel oder Akku – was ist nachhaltiger? Wie sinnvoll ist ein Staubsaugroboter wirklich? Wir klären, worauf es beim Kauf ankommt, wie man Strom spart und warum der Besen nicht komplett aus der Mode ist. Alle Antworten hören Sie hier.</description>
+<dc:type>link</dc:type>
+<dc:date>2025-10-08T12:40:00+02:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>link-besserleben-staubsauger-100</dc:identifier>
+<dc:source>BR.de</dc:source>
+<dc:language>de</dc:language>
+<dc:rights>Bayerischer Rundfunk</dc:rights>
+<dc:subject>/radio/bayern1</dc:subject>
+<dcterms:audience>all</dcterms:audience>
+</item>
+<item rdf:about="https://www.ardsounds.de/episode/urn:ard:episode:710d5e872b509c5e/">
+<title>&quot;Da steckt doch nur Chemie drin!&quot;: Sind vegane Würstchen besser als ihr Ruf?</title>
+<link>https://www.ardsounds.de/episode/urn:ard:episode:710d5e872b509c5e/</link>
+<description>Vegane Alternativen liegen inzwischen neben Bratwurst und Lyoner im Kühlregal. Doch wie unterscheiden sie sich bei Nährwerten, Zutaten und Geschmack von klassischen Fleischprodukten? Hier erfahren.</description>
+<dc:type>link</dc:type>
+<dc:date>2026-10-14T15:09:00+02:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>link-besser-leben-vegane-wurst-102</dc:identifier>
+<dc:source>BR.de</dc:source>
+<dc:language>de</dc:language>
+<dc:rights>Bayerischer Rundfunk</dc:rights>
+<dc:subject>/radio/bayern1</dc:subject>
+<dcterms:audience>all</dcterms:audience>
+</item>
+<item rdf:about="https://www.br.de/radio/bayern1/legionellen-102.html">
+<title>Legionellen: Wenn der Wasserdampf krank macht - so kann man vorbeugen</title>
+<link>https://www.br.de/radio/bayern1/legionellen-102.html</link>
+<description>Legionellen – die unsichtbare Gefahr aus dem Wasser. Diese Bakterien können zu gesundheitlichen Problemen führen und vermehren sich gern in Wasserleitungen. Was gegen die Bakterien hilft und wie Sie sich wirksam vor einer Infektion schützen können.</description>
+<dc:type>article</dc:type>
+<dc:date>2025-11-11T16:49:00+01:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>legionellen-102</dc:identifier>
+<dc:source>BR.de</dc:source>
+<dc:language>de</dc:language>
+<dc:rights>Bayerischer Rundfunk</dc:rights>
+<dc:subject>/radio/bayern1</dc:subject>
+<dcterms:audience>all</dcterms:audience>
+</item>
+<item rdf:about="https://www.br.de/radio/bayern1/titandioxid-100.html">
+<title>Titandioxid: Darum ist der weiße Farbstoff E171 für Lebensmittel verboten</title>
+<link>https://www.br.de/radio/bayern1/titandioxid-100.html</link>
+<description>Er steckte als Weißmacher in Mozzarella, Süßigkeiten, ist auch in Tabletten, Kosmetik und Zahncremes enthalten - Titandioxid oder auch E171. Warum es eine gute Nachricht ist, dass dieser Farbstoff für Lebensmittel seit August 2022 in der EU verboten ist.</description>
+<dc:type>article</dc:type>
+<dc:date>2026-04-08T09:29:00+02:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>titandioxid-100</dc:identifier>
+<dc:source>BR.de</dc:source>
+<dc:language>de</dc:language>
+<dc:rights>Bayerischer Rundfunk</dc:rights>
+<dc:subject>/radio/bayern1</dc:subject>
+<dcterms:audience>all</dcterms:audience>
+</item>
+<item rdf:about="https://www.br.de/radio/bayern1/demenz-vorbeugen-100.html">
+<title>Demenz vorbeugen: Diese elf Lebensmittel sind gut für geistige Fitness</title>
+<link>https://www.br.de/radio/bayern1/demenz-vorbeugen-100.html</link>
+<description>Wie schnell wir im Kopf sind und wie fit unser Gehirn bleibt, das können wir beeinflussen - zum Beispiel mit gesunder Ernährung. Und so Demenz vorbeugen. Wir haben eine Liste mit Brainfood für Sie zusammengestellt.</description>
+<dc:type>article</dc:type>
+<dc:date>2025-07-24T12:50:00+02:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>demenz-vorbeugen-100</dc:identifier>
+<dc:source>BR.de</dc:source>
+<dc:language>de</dc:language>
+<dc:rights>Bayerischer Rundfunk</dc:rights>
+<dc:subject>/radio/bayern1</dc:subject>
+<dcterms:audience>all</dcterms:audience>
+</item>
+<item rdf:about="https://www.br.de/radio/bayern1/radltour-konzerte-rueckblick-100.html">
+<title>BR Radltour: Bayern 1 Konzerte in der Mediathek anschauen</title>
+<link>https://www.br.de/radio/bayern1/radltour-konzerte-rueckblick-100.html</link>
+<description>Tagsüber radeln, abends feiern – mit hochkarätigen Events und Konzerten bei freiem Eintritt. So das Motto der BR Radltour. Jetzt können Sie sich nochmal die schönsten Momente der Konzertabende 2026 in der Mediathek anschauen.</description>
+<dc:type>article</dc:type>
+<dc:date>2026-11-12T09:23:00+01:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>radltour-konzerte-rueckblick-100</dc:identifier>
+<dc:source>BR.de</dc:source>
+<dc:language>de</dc:language>
+<dc:rights>Bayerischer Rundfunk</dc:rights>
+<dc:subject>/radio/bayern1</dc:subject>
+<dcterms:audience>all</dcterms:audience>
+</item>
+<item rdf:about="https://www.br.de/radio/bayern1/bayern-1-wirtshausquiz-anmeldung-100.html">
+<title>Mehr Spaß – mehr Miteinander: Bayern 1 Wirtshausquiz</title>
+<link>https://www.br.de/radio/bayern1/bayern-1-wirtshausquiz-anmeldung-100.html</link>
+<description>Seit Beginn des Jahres zieht das Bayern 1 Wirtshausquiz durch Bayern. Im Wirtshaus wird zusammen gequizzt was das Zeug hält. Jetzt mitmachen!</description>
+<dc:type>article</dc:type>
+<dc:date>2026-11-16T15:53:00+01:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>bayern-1-wirtshausquiz-anmeldung-100</dc:identifier>
+<dc:source>BR.de</dc:source>
+<dc:language>de</dc:language>
+<dc:rights>Bayerischer Rundfunk</dc:rights>
+<dc:subject>/radio/bayern1</dc:subject>
+<dcterms:audience>all</dcterms:audience>
+</item>
+<item rdf:about="https://www.br.de/radio/bayern1/spider-murphy-gang-feiert-50-jaehriges-jubliaeum-100.html">
+<title>Spider Murphy Gang feiert 50-jähriges Jubliäum  : &quot;I ziags net aus, meine Rock&#39;n&#39;Roll Schuah&quot;</title>
+<link>https://www.br.de/radio/bayern1/spider-murphy-gang-feiert-50-jaehriges-jubliaeum-100.html</link>
+<description>2027 feiert die Spider Murphy Gang ihr 50. Band-Jubiläum. Bayern 1 präsentiert die Jubiläumskonzerte. Alle Informationen und Termine finden Sie hier. Wegen großer Nachfrage gibt es für München und Landshut schon Zusatzkonzerte.</description>
+<dc:type>article</dc:type>
+<dc:date>2026-10-14T11:08:00+02:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>spider-murphy-gang-feiert-50-jaehriges-jubliaeum-100</dc:identifier>
+<dc:source>BR.de</dc:source>
+<dc:language>de</dc:language>
+<dc:rights>Bayerischer Rundfunk</dc:rights>
+<dc:subject>/radio/bayern1</dc:subject>
+<dcterms:audience>all</dcterms:audience>
+</item>
+<item rdf:about="https://www.br.de/radio/bayern1/moderatorenseite-marcus-fahn-100.html">
+<title>Marcus Fahn - wie sieht er aus, was macht er noch so?: Alles über den Bayern 1 Morgenmann</title>
+<link>https://www.br.de/radio/bayern1/moderatorenseite-marcus-fahn-100.html</link>
+<description>Wer ist der Moderator von Bayern 1, mit dem man morgens so gerne aufwacht? Wie alt ist er? Ist Marcus Fahn verheiratet? Und wo kann ich ihn auf Social Media treffen? Marcus Fahn im Portrait.</description>
+<dc:type>indexPage</dc:type>
+<dc:date>2026-11-18T08:50:00+01:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>moderatorenseite-marcus-fahn-100</dc:identifier>
+<dc:source>BR.de</dc:source>
+<dc:language>de</dc:language>
+<dc:rights>Bayerischer Rundfunk</dc:rights>
+<dc:subject>/radio/bayern1</dc:subject>
+<dcterms:audience>all</dcterms:audience>
+</item>
+<item rdf:about="https://www.br.de/radio/bayern1/moderatorenseite-melitta-varlam-100.html">
+<title>Melitta Varlam - wie sieht sie aus, was macht sie so?: Alles über die Bayern 1 Moderatorin</title>
+<link>https://www.br.de/radio/bayern1/moderatorenseite-melitta-varlam-100.html</link>
+<description>Wer ist der Moderatorin auf Bayern 1, die vormittags immer so gute Laune verbreitet und die besten Servicetipps parat hat? Und wo kann ich sie auf Social Media treffen? Melitta Varlam im Portrait.</description>
+<dc:type>indexPage</dc:type>
+<dc:date>2026-08-31T08:50:00+02:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>moderatorenseite-melitta-varlam-100</dc:identifier>
+<dc:source>BR.de</dc:source>
+<dc:language>de</dc:language>
+<dc:rights>Bayerischer Rundfunk</dc:rights>
+<dc:subject>/radio/bayern1</dc:subject>
+<dcterms:audience>all</dcterms:audience>
+</item>
+<item rdf:about="https://www.br.de/radio/bayern1/service/team/bayern1-team-susanne-rohrer-100.html">
+<title>Susanne Rohrer: Für sie zählen Humor, die Nähe zu den Menschen und der Blick auf das Aktuelle</title>
+<link>https://www.br.de/radio/bayern1/service/team/bayern1-team-susanne-rohrer-100.html</link>
+<description>Sie kann so richtig herzhaft lachen und dieses Lachen ist ansteckend. Mit viel Humor bringt Susanne Rohrer Sie durch den Nachmittag – zwischen 13.00 und 17.00 Uhr. </description>
+<dc:type>article</dc:type>
+<dc:date>2025-05-12T14:40:00+02:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>bayern1-team-susanne-rohrer-100</dc:identifier>
+<dc:source>BR.de</dc:source>
+<dc:language>de</dc:language>
+<dc:rights>Bayerischer Rundfunk</dc:rights>
+<dc:subject>/radio/bayern1</dc:subject>
+<dcterms:audience>all</dcterms:audience>
+</item>
+<item rdf:about="https://www.br.de/radio/bayern1/ulla-mueller-moderatorenseite-100.html">
+<title>Alles über Bayern 1 Moderatorin Ulla Müller: Wer sie ist, was sie mag</title>
+<link>https://www.br.de/radio/bayern1/ulla-mueller-moderatorenseite-100.html</link>
+<description>Große Lust am Leben, mit beiden Beinen auf der Erde und dankbar für all das Schöne auf der Welt. Das ist Ulla Müller. Hier erfahren Sie mehr über die Bayern1 Moderatorin des Bayernmagazins, die viele Jahre auch im Morgen zu hören war.</description>
+<dc:type>indexPage</dc:type>
+<dc:date>2026-08-26T09:30:00+02:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>ulla-mueller-moderatorenseite-100</dc:identifier>
+<dc:source>BR.de</dc:source>
+<dc:language>de</dc:language>
+<dc:rights>Bayerischer Rundfunk</dc:rights>
+<dc:subject>/radio/bayern1</dc:subject>
+<dcterms:audience>all</dcterms:audience>
+</item>
+<item rdf:about="https://www.br.de/radio/bayern1/sendungen/blaue-couch/index.html">
+<title>Blaue Couch: Gute Gespräche bei Dominique Knoll und Thorsten Otto</title>
+<link>https://www.br.de/radio/bayern1/sendungen/blaue-couch/index.html</link>
+<description>Die Blaue Couch: Das sind Gastgeberin Dominique Knoll und Gastgeber Thorsten Otto im Gespräch mit interessanten Gästen. Täglich, von montags bis donnerstags, um 19.00 Uhr bei Bayern 1. Alle Infos zu den Gästen der Woche hier.</description>
+<dc:type>indexPage</dc:type>
+<dc:date>2026-11-18T14:29:00+01:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>blaue-couch108</dc:identifier>
+<dc:source>BR.de</dc:source>
+<dc:language>de</dc:language>
+<dc:rights>Bayerischer Rundfunk</dc:rights>
+<dc:subject>/radio/bayern1</dc:subject>
+<dcterms:audience>all</dcterms:audience>
+</item>
+<item rdf:about="https://www.br.de/radio/bayern-1/welle110.html">
+<title>Bayern 1: Bayern 1</title>
+<link>https://www.br.de/radio/bayern-1/welle110.html</link>
+<description></description>
+<dc:type>broadcastChannel</dc:type>
+<dc:date>2011-01-12T12:47:40+01:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>welle110</dc:identifier>
+<dc:source>BR.de</dc:source>
+<dc:language>de</dc:language>
+<dc:rights>Bayerischer Rundfunk</dc:rights>
+<dc:subject>/radio/bayern1</dc:subject>
+<dcterms:audience>all</dcterms:audience>
+</item>
+<item rdf:about="https://www.br.de/radio/bayern1/radiobayern1/aktionen/night-of-the-proms-116.html">
+<title>Pop meets Klassik : Night of  the Proms </title>
+<link>https://www.br.de/radio/bayern1/radiobayern1/aktionen/night-of-the-proms-116.html</link>
+<description>Die Night of the Proms verbindet populäre Klassik mit Pop-Klassikern und schafft damit ein Showfeuerwerk aus 300 Jahren Musik. 2026 werden diese Künstler das Publikum begeistern - die Termine finden Sie hier.
+</description>
+<dc:type>article</dc:type>
+<dc:date>2026-11-16T15:35:00+01:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>night-of-the-proms-116</dc:identifier>
+<dc:source>BR.de</dc:source>
+<dc:language>de</dc:language>
+<dc:rights>Bayerischer Rundfunk</dc:rights>
+<dc:subject>/radio/bayern1</dc:subject>
+<dcterms:audience>all</dcterms:audience>
+</item>
+<item rdf:about="https://www.br.de/radio/bayern1/bayern-1-praesentiert-abbamania-100.html">
+<title>Bayern 1 präsentiert ABBAMANIA 2027: Unvergessene Hits zum Mitsingen und Tanzen auf der Bühne</title>
+<link>https://www.br.de/radio/bayern1/bayern-1-praesentiert-abbamania-100.html</link>
+<description>Bayern 1 präsentiert ABBAMANIA THE SHOW 2027. Auch bei dieser Tour steht wieder das Jubiläum eines ABBA-Klassikers an: &quot;Thank You for the Music&quot; wird 50 Jahre alt. Alle Informationen und Termine finden Sie hier. </description>
+<dc:type>article</dc:type>
+<dc:date>2026-10-28T15:38:00+01:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>bayern-1-praesentiert-abbamania-100</dc:identifier>
+<dc:source>BR.de</dc:source>
+<dc:language>de</dc:language>
+<dc:rights>Bayerischer Rundfunk</dc:rights>
+<dc:subject>/radio/bayern1</dc:subject>
+<dcterms:audience>all</dcterms:audience>
+</item>
+<item rdf:about="https://www.br.de/radio/bayern1/radiobayern1/aktionen/bayern-1-ballon-rundfahrt-himmel100.html">
+<title>Der Bayern 1 Ballon: Mit Bayern 1 in den siebten Himmel</title>
+<link>https://www.br.de/radio/bayern1/radiobayern1/aktionen/bayern-1-ballon-rundfahrt-himmel100.html</link>
+<description>Bayern 1 hebt ab - mit dem Bayern 1 Ballon. Seit Herbst 2010 ist er unterwegs und hat schon viele Bayern 1 Hörer und Hörerinnen zu einer schwerelosen Panoramareise über Bayern entführt und zu begeisterten Ballonfahrern gemacht.</description>
+<dc:type>article</dc:type>
+<dc:date>2026-09-30T08:38:00+02:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>bayern-1-ballon-rundfahrt-himmel100</dc:identifier>
+<dc:source>BR.de</dc:source>
+<dc:language>de</dc:language>
+<dc:rights>Bayerischer Rundfunk</dc:rights>
+<dc:subject>/radio/bayern1</dc:subject>
+<dcterms:audience>all</dcterms:audience>
+</item>
+<item rdf:about="https://www.br.de/radio/bayern1/radiobayern1/aktionen/bayern1-disco-bayern-100.html">
+<title>Bayern 1 Disco: Alle aktuellen Termine und Infos</title>
+<link>https://www.br.de/radio/bayern1/radiobayern1/aktionen/bayern1-disco-bayern-100.html</link>
+<description>Mal wieder so richtig ausgelassen tanzen? Das können Sie bei der nächsten großen Bayern 1 Disco. Wir sind wieder unterwegs. Infos zu den Terminen finden Sie hier:</description>
+<dc:type>article</dc:type>
+<dc:date>2026-11-10T09:59:00+01:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>bayern1-disco-bayern-100</dc:identifier>
+<dc:source>BR.de</dc:source>
+<dc:language>de</dc:language>
+<dc:rights>Bayerischer Rundfunk</dc:rights>
+<dc:subject>/radio/bayern1</dc:subject>
+<dcterms:audience>all</dcterms:audience>
+</item>
+<item rdf:about="https://www.br.de/radio/bayern1/stadt-land-bayern1-100.html">
+<title>Das neue Bayern 1 Quiz: Stadt, Land, Bayern 1: So geht&#39;s</title>
+<link>https://www.br.de/radio/bayern1/stadt-land-bayern1-100.html</link>
+<description>Schnell denken, schnell antworten und dabei möglichst viele Begriffe finden: Mit unserem neuen Quiz „Das A bis Z Quiz ohne Ypsilon – Stadt, Land, Bayern 1“ bringen wir den beliebten Spieleklassiker ins Radio. Wer Nervenstärke, Wortschatz und ein bisschen Glück mitbringt, kann auf Bayern 1 jeden Tag ein Digitalradio gewinnen.</description>
+<dc:type>article</dc:type>
+<dc:date>2026-10-01T10:01:00+02:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>stadt-land-bayern1-100</dc:identifier>
+<dc:source>BR.de</dc:source>
+<dc:language>de</dc:language>
+<dc:rights>Bayerischer Rundfunk</dc:rights>
+<dc:subject>/radio/bayern1</dc:subject>
+<dcterms:audience>all</dcterms:audience>
+</item>
+<item rdf:about="https://www.br.de/radio/bayern1/bayern1-am-freitagabend-100.html">
+<title>Bayern 1 am Freitagabend: Ihre Lieblingshits und Lieblingsstars</title>
+<link>https://www.br.de/radio/bayern1/bayern1-am-freitagabend-100.html</link>
+<description>Wir starten mit Ihnen und Ihren Lieblingshits und -stars ins Wochenende! Den Freitagabend auf Bayern 1 gestalten Sie mit: Was wollen Sie hören? </description>
+<dc:type>article</dc:type>
+<dc:date>2025-07-29T13:53:00+02:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>bayern1-am-freitagabend-100</dc:identifier>
+<dc:source>BR.de</dc:source>
+<dc:language>de</dc:language>
+<dc:rights>Bayerischer Rundfunk</dc:rights>
+<dc:subject>/radio/bayern1</dc:subject>
+<dcterms:audience>all</dcterms:audience>
+</item>
+<item rdf:about="https://www.br.de/radio/bayern1/gute-buecher-100.html">
+<title>Ulla Müller liest: 99 wunderbare Buchtipps</title>
+<link>https://www.br.de/radio/bayern1/gute-buecher-100.html</link>
+<description>Endlich Zeit zum Lesen? Wir haben die richtigen Empfehlungen: Thriller, Romantisches, Witziges - unsere Moderatorin Ulla Müller mit 99 Büchern, die Sie garantiert nicht mehr so schnell aus der Hand legen wollen.</description>
+<dc:type>article</dc:type>
+<dc:date>2026-11-14T15:24:00+01:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>gute-buecher-100</dc:identifier>
+<dc:source>BR.de</dc:source>
+<dc:language>de</dc:language>
+<dc:rights>Bayerischer Rundfunk</dc:rights>
+<dc:subject>/radio/bayern1</dc:subject>
+<dcterms:audience>all</dcterms:audience>
+</item>
+<item rdf:about="https://www.br.de/radio/bayern1/traumhausverlosung-100.html">
+<title>Traumhausverlosung: Wie seriös ist Omaze? Und wie stehen die Gewinnchancen?</title>
+<link>https://www.br.de/radio/bayern1/traumhausverlosung-100.html</link>
+<description>Luxusvilla zu gewinnen. Und dann auch noch für den guten Zweck. Die Soziallotterie Omaze macht dafür gerade massiv Werbung. Doch wie seriös ist das Ganze wirklich – und worauf sollten Teilnehmende achten? </description>
+<dc:type>article</dc:type>
+<dc:date>2026-11-16T15:21:00+01:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>traumhausverlosung-100</dc:identifier>
+<dc:source>BR.de</dc:source>
+<dc:language>de</dc:language>
+<dc:rights>Bayerischer Rundfunk</dc:rights>
+<dc:subject>/radio/bayern1</dc:subject>
+<dcterms:audience>all</dcterms:audience>
+</item>
+<item rdf:about="https://www.br.de/radio/bayern1/alkohol-und-e-scooter-oder-rad-100.html">
+<title>Alkohol und E-Scooter oder Rad: Wann das schnell sehr teuer wird</title>
+<link>https://www.br.de/radio/bayern1/alkohol-und-e-scooter-oder-rad-100.html</link>
+<description>Wer nach einem Abend mit viel Alkohol fröhlich aufs Radl steigt oder den E-Scooter anwirft, riskiert einiges. Manchmal sogar den Führerschein. Diese Promillegrenzen gelten für Radfahrende und E-Scooter-Nutzer.</description>
+<dc:type>article</dc:type>
+<dc:date>2026-07-01T09:40:00+02:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>alkohol-und-e-scooter-oder-rad-100</dc:identifier>
+<dc:source>BR.de</dc:source>
+<dc:language>de</dc:language>
+<dc:rights>Bayerischer Rundfunk</dc:rights>
+<dc:subject>/radio/bayern1</dc:subject>
+<dcterms:audience>all</dcterms:audience>
+</item>
+<item rdf:about="https://www.br.de/radio/bayern1/weihnachtsmaerkte-bayern-100.html">
+<title>Weihnachtsmärkte Bayern : Die schönsten Weihnachtsmärkte</title>
+<link>https://www.br.de/radio/bayern1/weihnachtsmaerkte-bayern-100.html</link>
+<description>Den Christkindlmarkt um die Ecke kennt jeder. Aber unsere Favoriten und Geheimtipps für besondere Weihnachtsmärkte in Bayern sind definitiv auch einen Ausflug wert.</description>
+<dc:type>article</dc:type>
+<dc:date>2026-10-19T13:21:00+02:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>weihnachtsmaerkte-bayern-100</dc:identifier>
+<dc:source>BR.de</dc:source>
+<dc:language>de</dc:language>
+<dc:rights>Bayerischer Rundfunk</dc:rights>
+<dc:subject>/radio/bayern1</dc:subject>
+<dcterms:audience>all</dcterms:audience>
+</item>
+<item rdf:about="https://www.br.de/radio/bayern1/service/newsletter/newsletter-anmeldung-102.html">
+<title>Bayern 1 Newsletter abonnieren: Service, Tricks und Neuigkeiten direkt in Ihr Postfach</title>
+<link>https://www.br.de/radio/bayern1/service/newsletter/newsletter-anmeldung-102.html</link>
+<description>Hier den Bayern 1 Newsletter abonnieren und immer die besten Tricks und Tipps, interessante Neuigkeiten über Podcasts sowie Verbraucherthemen und Rezepte erhalten.</description>
+<dc:type>indexPage</dc:type>
+<dc:date>2026-01-09T12:29:00+01:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>newsletter-anmeldung-102</dc:identifier>
+<dc:source>BR.de</dc:source>
+<dc:language>de</dc:language>
+<dc:rights>Bayerischer Rundfunk</dc:rights>
+<dc:subject>/radio/bayern1</dc:subject>
+<dcterms:audience>all</dcterms:audience>
+</item>
+<item rdf:about="https://www.br.de/radio/bayern1/whatsapp-aktuelles-100.html">
+<title>Bayern 1 ist bei WhatsApp: Abonnieren Sie hier unseren WhatsApp Kanal für Neuigkeiten und spannende Einblicke</title>
+<link>https://www.br.de/radio/bayern1/whatsapp-aktuelles-100.html</link>
+<description>Haben Sie sich auch schon gefragt, was bei WhatsApp unten links &quot;Aktuelles&quot; bedeutet? Wir sagen es Ihnen - und sind als Bayern 1 auch dabei. Mit unserem WhatsApp Kanal nichts mehr verpassen - und schöne Grußkarten erhalten.</description>
+<dc:type>article</dc:type>
+<dc:date>2025-07-08T09:27:00+02:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>whatsapp-aktuelles-100</dc:identifier>
+<dc:source>BR.de</dc:source>
+<dc:language>de</dc:language>
+<dc:rights>Bayerischer Rundfunk</dc:rights>
+<dc:subject>/radio/bayern1</dc:subject>
+<dcterms:audience>all</dcterms:audience>
+</item>
+<item rdf:about="https://www.br.de/radio/bayern1/feiertage-in-bayern-100.html">
+<title>Feiertage und Ferien in Bayern: Wann ist der nächste Feiertag unter der Woche?</title>
+<link>https://www.br.de/radio/bayern1/feiertage-in-bayern-100.html</link>
+<description>Wie viele Feiertage hat Bayern eigentlich mehr? Eine Übersicht über Feiertage, mögliche Brückentage und Schulferien in Bayern für 2026.</description>
+<dc:type>article</dc:type>
+<dc:date>2026-08-17T16:57:00+02:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>feiertage-in-bayern-100</dc:identifier>
+<dc:source>BR.de</dc:source>
+<dc:language>de</dc:language>
+<dc:rights>Bayerischer Rundfunk</dc:rights>
+<dc:subject>/radio/bayern1</dc:subject>
+<dcterms:audience>all</dcterms:audience>
+</item>
+<item rdf:about="https://www.br.de/radio/bayern1/histaminintoleranz-100.html">
+<title>Histaminintoleranz: Kopfweh nach Wein oder Käse - ist Histamin schuld?</title>
+<link>https://www.br.de/radio/bayern1/histaminintoleranz-100.html</link>
+<description>Juckende Haut oder stechende Kopfschmerzen nach einem Schluck Rotwein oder Prosecco? Eine Histamin-Intoleranz könnte der Grund sein. </description>
+<dc:type>article</dc:type>
+<dc:date>2024-06-10T09:52:00+02:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>histaminintoleranz-100</dc:identifier>
+<dc:source>BR.de</dc:source>
+<dc:language>de</dc:language>
+<dc:rights>Bayerischer Rundfunk</dc:rights>
+<dc:subject>/radio/bayern1</dc:subject>
+<dcterms:audience>all</dcterms:audience>
+</item>
+<item rdf:about="https://www.br.de/radio/bayern1/email-hack-pruefen-100.html">
+<title>Wurde ich gehackt?: So überprüfen Sie, ob Ihre E-Mail-Adresse gehackt wurde</title>
+<link>https://www.br.de/radio/bayern1/email-hack-pruefen-100.html</link>
+<description>In letzter Zeit häufen sich die Nachrichten von gehackten Mailadressen und bekannt gewordenen Passwörtern. Mit diesen einfachen Kniffen erfahren Sie, ob auch Ihr E-Mail-Account und das dazugehörige Passwort betroffen sind.</description>
+<dc:type>article</dc:type>
+<dc:date>2025-11-11T08:30:00+01:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>email-hack-pruefen-100</dc:identifier>
+<dc:source>BR.de</dc:source>
+<dc:language>de</dc:language>
+<dc:rights>Bayerischer Rundfunk</dc:rights>
+<dc:subject>/radio/bayern1</dc:subject>
+<dcterms:audience>all</dcterms:audience>
+</item>
+<item rdf:about="https://www.br.de/radio/bayern1/namenstag-heute-100.html">
+<title>Namenstag heute: Wer hat heute Namenstag?</title>
+<link>https://www.br.de/radio/bayern1/namenstag-heute-100.html</link>
+<description>Namenstag wird in Bayern manchmal noch genauso groß gefeiert wie der eigene Geburtstag. Erfahren Sie hier, welcher Namenstag heute ist.</description>
+<dc:type>article</dc:type>
+<dc:date>2026-09-16T10:23:00+02:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>namenstag-heute-100</dc:identifier>
+<dc:source>BR.de</dc:source>
+<dc:language>de</dc:language>
+<dc:rights>Bayerischer Rundfunk</dc:rights>
+<dc:subject>/radio/bayern1</dc:subject>
+<dcterms:audience>all</dcterms:audience>
+</item>
+<item rdf:about="https://www.br.de/radio/bayern1/ibuprofen-gefaehrlich-100.html">
+<title>Ist Ibuprofen gefährlich: Wie viel Ibu pro Tag kann ich nehmen?</title>
+<link>https://www.br.de/radio/bayern1/ibuprofen-gefaehrlich-100.html</link>
+<description>Ibuprofen ist ein gängiges Schmerzmittel. Ab wann ist es gefährlich? Wo liegt die Höchstdosis und wie sieht es mit anderen Schmerzmitteln wie Paracetamol, Aspirin oder Diclofenac aus?</description>
+<dc:type>article</dc:type>
+<dc:date>2025-11-26T13:49:00+01:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>ibuprofen-gefaehrlich-100</dc:identifier>
+<dc:source>BR.de</dc:source>
+<dc:language>de</dc:language>
+<dc:rights>Bayerischer Rundfunk</dc:rights>
+<dc:subject>/radio/bayern1</dc:subject>
+<dcterms:audience>all</dcterms:audience>
+</item>
+<item rdf:about="https://www.br.de/radio/bayern1/formular-gute-geschichte-100.html">
+<title>Die Guten Geschichten bei Bayern 1: Schicken Sie uns Ihre Gute Geschichte</title>
+<link>https://www.br.de/radio/bayern1/formular-gute-geschichte-100.html</link>
+<description>Jeden Morgen präsentieren wir Ihnen auf BAYERN 1 die &quot;Guten Geschichten&quot;, denn oft sind es die kleinen Dinge im Alltag, die uns ein Lächeln ins Gesicht zaubern: spontane Hilfe bei der Autopanne, ein geschenkter Euro für die Parkuhr. Wir freuen uns, wenn auch Sie uns IHRE gute Geschichte erzählen. Einfach hier einsenden.   </description>
+<dc:type>form</dc:type>
+<dc:date>2025-09-08T14:42:00+02:00</dc:date>
+<dc:format>text/html</dc:format>
+<dc:identifier>formular-gute-geschichte-100</dc:identifier>
+<dc:source>BR.de</dc:source>
+<dc:language>de</dc:language>
+<dc:rights>Bayerischer Rundfunk</dc:rights>
+<dc:subject>/radio/bayern1</dc:subject>
+<dcterms:audience>all</dcterms:audience>
+</item>
+</rdf:RDF>
